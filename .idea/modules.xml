@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AT04-builder.iml" filepath="$PROJECT_DIR$/.idea/AT04-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/at-mealbuilder/at-mealbuilder.iml" filepath="$PROJECT_DIR$/at-mealbuilder/at-mealbuilder.iml" />
+    </modules>
+  </component>
+</project>
